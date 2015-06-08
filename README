@@ -1,0 +1,2 @@
+To compile just type make in the command line cause there have the makefile file.
+This is the tetrominos game with many variation of the stone. There i have made 5 types such as I,L,S,O and T. because in the lecturer slide there already have 3 types and in this exercises I just needed to add 2 more,so i added O and T. After running the ./tetris in the command line, there exists a random of the tetrominos with only 3types because the for function only get it only 3 times. For adding the types, I did it from just following the lecturer slide.
